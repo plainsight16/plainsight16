@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @plainsight16
+- 👋 Hi, I’m Timilehin Bakare
 - 👀 I’m interested in java, javascript
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
