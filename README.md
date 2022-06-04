@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Timilehin Bakare
-- 👀 I’m interested in java, javascript
+- 👀 I’m interested in python, java, javascript
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me timmybaks2002@gmail.com
