@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Timilehin Bakare
+- 👋 Hi, I’m Abdullahi Bakare
 - 👀 I’m interested in python, java, javascript
-- 🌱 I’m currently learning frontend development
+- 🌱 I’m currently learning fullsatck web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me timmybaks2002@gmail.com
+- 📫 How to reach me bakareabdullahi23@gmail.com
 
 <!---
 plainsight16/plainsight16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
