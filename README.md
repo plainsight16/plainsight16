@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdullahi Oluwatimilehin Bakare
-- 👀 I write python, java, javascript
+- 👀 I write python, java, javascript, c#
 - 🌱 I’m currently learning fullsatck web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bakareabdullahi23@gmail.com
